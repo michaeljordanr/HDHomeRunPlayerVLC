@@ -1,13 +1,5 @@
 [
     {
-        "GuideNumber": "test",
-        "GuideName": "Test",
-        "VideoCodec": "Test",
-        "AudioCodec": "test",
-        "Favorite": 1,
-        "URL": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
-    },
-    {
         "GuideNumber": "2.2",
         "GuideName": "MeTV",
         "VideoCodec": "MPEG2",
